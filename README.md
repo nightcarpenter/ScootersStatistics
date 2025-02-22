@@ -4,6 +4,8 @@
 
 ---
 
+#### [Исходный код](https://github.com/nightcarpenter/ScootersStatistics/blob/main/stat_analysis.ipynb)
+
 #### [Вернуться к портфолио](https://github.com/nightcarpenter)
 
 ---
